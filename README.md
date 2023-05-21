@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://saicharan21-dev.github.io/Portfolio/](https://saicharan21-dev.github.io/Portfolio/)
 
-- 📫 How to reach me ****
+- 📫 How to reach me **saicharanmukala21@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hYNZA6JUzAxwi7BYwE5l3sQsMUa7lBiv/view?usp=sharing](https://drive.google.com/file/d/1mq_SirKvRn1O82Nrs7tJRhqJShX6uE4l/view?usp=sharing)
 
