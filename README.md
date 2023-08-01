@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Charan Mukala .</h1>
-<h3 align="center">I'm a web and Android Developer with an interest in Machine Learning and I have experience in Programming Languages such as C++,Python,Java and I have a good experience in working with machine learning libraries and frameworks like TensorFlow,PyTorch and scikit-learn. I have honed my skills in Flutter, Firestore and made some projects using them. My passion for technology drives me to continuously improve and learn.</h3>
+<h3 align="center">I'm a web and Android Developer with an interest in Machine Learning and I have experience in Programming Languages such as C++,Python and I have a good experience in working with machine learning libraries and frameworks like TensorFlow,PyTorch and scikit-learn. I have honed my skills in Flutter, Firestore and made some projects using them. My passion for technology drives me to continuously improve and learn.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saicharan21-dev&label=Profile%20views&color=0e75b6&style=flat" alt="saicharan21-dev" /> </p>
 
