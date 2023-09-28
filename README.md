@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Charan Mukala .</h1>
-<h3 align="center">I'm a web and Android Developer with an interest in Machine Learning and I have experience in Programming Languages such as C++,Python and I have a good experience in working with machine learning libraries and frameworks like TensorFlow,PyTorch and scikit-learn. I have honed my skills in Flutter, Firestore and made some projects using them. My passion for technology drives me to continuously improve and learn.</h3>
+<h3 align="center">I'm a Software Devloper with an interest in Machine Learning and I have experience in Programming Languages such as C++,Python,JavaScript and query languages like SQL and I have a good experience in working with machine learning libraries and frameworks like TensorFlow,PyTorch and scikit-learn. I have honed my skills in Flutter, Firestore and made some projects using them. My passion for technology drives me to continuously improve and learn.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saicharan21-dev&label=Profile%20views&color=0e75b6&style=flat" alt="saicharan21-dev" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **saicharanmukala21@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hYNZA6JUzAxwi7BYwE5l3sQsMUa7lBiv/view?usp=sharing](https://drive.google.com/file/d/1mq_SirKvRn1O82Nrs7tJRhqJShX6uE4l/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1T0v_PiOKYTk_sMiMzl1xDxr2j3Jr4ZnE/view?usp=sharing](https://drive.google.com/file/d/1T0v_PiOKYTk_sMiMzl1xDxr2j3Jr4ZnE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
