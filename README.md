@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Charan Mukala .</h1>
-<h3 align="center">I'm a Software Devloper with an interest in Machine Learning and I have experience in Programming Languages such as C++,Python,JavaScript and query languages like SQL and I have a good experience in working with machine learning libraries and frameworks like TensorFlow,PyTorch and scikit-learn. I have honed my skills in Flutter, Firestore and made some projects using them. My passion for technology drives me to continuously improve and learn.</h3>
+<h3 align="center">Hello Everyone this is  Sai Charan Kumar Mukala. My journey as a Software Developer has taken me through an array of technologies including C++,Java, Python, JavaScript, Machine Learning, SQL. These skills have not only honed my technical prowess but also fueled my passion for innovative solutions.I'm on the lookout for a role that allows me to leverage my skills while embracing new challenges and growth opportunities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saicharan21-dev&label=Profile%20views&color=0e75b6&style=flat" alt="saicharan21-dev" /> </p>
 
