@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Charan Mukala .</h1>
+<h1 align="center">Hello, I'm Sai Charan Mukala .</h1>
 <h3 align="center">Hello Everyone this is  Sai Charan Kumar Mukala. My journey as a Software Developer has taken me through an array of technologies including C++,Java, Python, JavaScript, Machine Learning, SQL. These skills have not only honed my technical prowess but also fueled my passion for innovative solutions.I'm on the lookout for a role that allows me to leverage my skills while embracing new challenges and growth opportunities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saicharan21-dev&label=Profile%20views&color=0e75b6&style=flat" alt="saicharan21-dev" /> </p>
