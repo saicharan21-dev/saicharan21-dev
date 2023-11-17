@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello Everyone this is Sai Charan Kumar Mukala. My journey as a Software Developer has taken me through an array of technologies including C++,Java, Python, JavaScript, Machine Learning, SQL. These skills have not only honed my technical prowess but also fueled my passion for innovative solutions. My resume reflects my dedication to continuous learning. I'm on the lookout for a role that allows me to leverage my skills while embracing new challenges and growth opportunities.
+Hello Everyone this is Sai Charan Kumar Mukala. My journey as a Software Developer has taken me through an array of technologies including C++,Java, Python, JavaScript, Machine Learning, SQL. These skills have not only honed my technical prowess but also fueled my passion for innovative solutions. My resume reflects my dedication to continuous learning. I'm on the lookout for a role that allows me to leverage my skills while embracing new challenges and growth opportunities
 
 
 ## 🌐 Socials:
